@@ -122,6 +122,7 @@
     "cart_type": "notification",
     "show_vendor": false,
     "show_cart_note": false,
+    "cart_drawer_collection": "",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -221,6 +222,12 @@
       },
       "14952540001915115444": {
         "type": "shopify:\/\/apps\/upcart-slide-cart-drawer\/blocks\/app-embed\/af3da5fb-f5f7-40ec-8273-41bf50059d4b",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "2131494470682214141": {
+        "type": "shopify:\/\/apps\/corner-cart-upsell-cart-drawer\/blocks\/corner-widget\/73667a27-0d48-44b7-91f9-aef741c803ed",
         "disabled": false,
         "settings": {
         }
